@@ -1,5 +1,5 @@
 /*
- * VitalKeepInv is a Spigot Plugin that gives players the ability to keep their inventory on death.
+ * VitalKeepExp is a Spigot Plugin that gives players the ability to keep exp on death.
  * Copyright © 2022 Leopold Meinel
  *
  * This program is free software: you can redistribute it and/or modify
@@ -13,46 +13,38 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program. If not, see https://github.com/TamrielNetwork/VitalKeepInv/blob/main/LICENSE
+ * along with this program. If not, see https://github.com/TamrielNetwork/VitalKeepExp/blob/main/LICENSE
  */
 
-package com.tamrielnetwork.vitalcraft;
+package com.tamrielnetwork.vitalkeepinv;
 
-import com.tamrielnetwork.vitalcraft.commands.VitalCraftCmd;
-import com.tamrielnetwork.vitalcraft.files.Messages;
+import com.tamrielnetwork.vitalkeepinv.listeners.PlayerDeath;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import java.util.Objects;
-
-public final class VitalCraft extends JavaPlugin {
-
-	private Messages messages;
+public final class VitalKeepInv extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
 
-		Objects.requireNonNull(getCommand("vitalcraft")).setExecutor(new VitalCraftCmd());
+		registerListeners();
 
-		saveDefaultConfig();
-
-		messages = new Messages();
-
-		Bukkit.getLogger().info("VitalCraft v" + this.getDescription().getVersion() + " enabled");
+		Bukkit.getLogger().info("VitalKeepExp v" + this.getDescription().getVersion() + " enabled");
 		Bukkit.getLogger().info("Copyright (C) 2022 Leopold Meinel");
 		Bukkit.getLogger().info("This program comes with ABSOLUTELY NO WARRANTY!");
 		Bukkit.getLogger().info("This is free software, and you are welcome to redistribute it under certain conditions.");
-		Bukkit.getLogger().info("See https://github.com/TamrielNetwork/VitalCraft/blob/main/LICENSE for more details.");
+		Bukkit.getLogger().info("See https://github.com/TamrielNetwork/VitalKeepExp/blob/main/LICENSE for more details.");
 	}
 
 	@Override
 	public void onDisable() {
 
-		Bukkit.getLogger().info("VitalCraft v" + this.getDescription().getVersion() + " disabled");
+		Bukkit.getLogger().info("VitalKeepExp v" + this.getDescription().getVersion() + " disabled");
 	}
 
-	public Messages getMessages() {
-		return messages;
+	private void registerListeners() {
+
+		getServer().getPluginManager().registerEvents(new PlayerDeath(), this);
 	}
 
 }

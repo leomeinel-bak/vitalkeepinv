@@ -1,15 +1,11 @@
-name: VitalCraft
+name: VitalKeepInv
 version: @version@
-main: com.tamrielnetwork.vitalcraft.VitalCraft
+main: com.tamrielnetwork.vitalkeepinv.VitalKeepInv
 api-version: 1.17
 authors: [ Tamriel Network ]
 website: https://tamriel.site
-description: Gives players the ability to open a crafting interface.
-commands:
-  vitalcraft:
-    description: "Main command"
-    usage: "/vitalcraft"
+description: Gives players the ability to keep inventory on death.
 permissions:
-  vitalcraft.craft:
-    description: "Permission to toggle crafting interface"
+  vitalkeepinv.keep:
+    description: "Permission to keep inventory on death"
     default: op
