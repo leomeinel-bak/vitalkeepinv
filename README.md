@@ -45,7 +45,6 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#commands-and-permissions">Commands and Permissions</a></li>
-        <li><a href="#configuration">Configuration</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -80,6 +79,12 @@ This plugin is perfect for any server wanting their players not to lose levels w
 ## Getting Started
 
 To get the plugin running on your server follow these simple steps.
+
+### Commands and Permissions
+
+1. Permission: `vitalkeepinv.keep`
+
+* Description: Keep your inventory on death
 
 <!-- ROADMAP -->
 
