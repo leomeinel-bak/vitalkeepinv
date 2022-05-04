@@ -2,8 +2,7 @@ name: VitalKeepInv
 version: @version@
 main: com.tamrielnetwork.vitalkeepinv.VitalKeepInv
 api-version: 1.17
-authors: [ Tamriel Network ]
-website: https://tamriel.site
+authors: [ Leopold Meinel ]
 description: Gives players the ability to keep inventory on death.
 permissions:
   vitalkeepinv.keep:
