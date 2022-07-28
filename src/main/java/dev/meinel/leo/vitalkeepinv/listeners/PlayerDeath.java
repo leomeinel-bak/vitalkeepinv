@@ -16,7 +16,7 @@
  * along with this program. If not, see https://github.com/LeoMeinel/VitalKeepInv/blob/main/LICENSE
  */
 
-package com.tamrielnetwork.vitalkeepinv.listeners;
+package dev.meinel.leo.vitalkeepinv.listeners;
 
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;

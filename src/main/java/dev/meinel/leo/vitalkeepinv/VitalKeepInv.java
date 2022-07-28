@@ -16,9 +16,9 @@
  * along with this program. If not, see https://github.com/LeoMeinel/VitalKeepInv/blob/main/LICENSE
  */
 
-package com.tamrielnetwork.vitalkeepinv;
+package dev.meinel.leo.vitalkeepinv;
 
-import com.tamrielnetwork.vitalkeepinv.listeners.PlayerDeath;
+import dev.meinel.leo.vitalkeepinv.listeners.PlayerDeath;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
