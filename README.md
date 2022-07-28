@@ -10,7 +10,7 @@
 <!--suppress ALL -->
 <br />
 <p align="center">
-  <a href="https://github.com/TamrielNetwork/VitalKeepInv">
+  <a href="https://github.com/LeoMeinel/VitalKeepInv">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -19,14 +19,14 @@
   <p align="center">
     Keep inventory on Spigot and Paper
     <br />
-    <a href="https://github.com/TamrielNetwork/VitalKeepInv"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LeoMeinel/VitalKeepInv"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/TamrielNetwork/VitalKeepInv">View Demo</a>
+    <a href="https://github.com/LeoMeinel/VitalKeepInv">View Demo</a>
     ·
-    <a href="https://github.com/TamrielNetwork/VitalKeepInv/issues">Report Bug</a>
+    <a href="https://github.com/LeoMeinel/VitalKeepInv/issues">Report Bug</a>
     ·
-    <a href="https://github.com/TamrielNetwork/VitalKeepInv/issues">Request Feature</a>
+    <a href="https://github.com/LeoMeinel/VitalKeepInv/issues">Request Feature</a>
   </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -90,7 +90,7 @@ To get the plugin running on your server follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/TamrielNetwork/VitalKeepInv/issues) for a list of proposed features (and known
+See the [open issues](https://github.com/LeoMeinel/VitalKeepInv/issues) for a list of proposed features (and known
 issues).
 
 <!-- CONTRIBUTING -->
@@ -120,7 +120,7 @@ Leopold Meinel - [@TamrielN](https://twitter.com/TamrielN) - Twitter
 
 Leopold Meinel - [contact@tamriel.me](mailto:contact@tamriel.me) - eMail
 
-Project Link - [VitalKeepInv](https://github.com/TamrielNetwork/VitalKeepInv) - GitHub
+Project Link - [VitalKeepInv](https://github.com/LeoMeinel/VitalKeepInv) - GitHub
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -130,26 +130,26 @@ Project Link - [VitalKeepInv](https://github.com/TamrielNetwork/VitalKeepInv) - 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors-anon/TamrielNetwork/VitalKeepInv?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors-anon/LeoMeinel/VitalKeepInv?style=for-the-badge
 
-[contributors-url]: https://github.com/TamrielNetwork/VitalKeepInv/graphs/contributors
+[contributors-url]: https://github.com/LeoMeinel/VitalKeepInv/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/TamrielNetwork/VitalKeepInv?label=Forks&style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/LeoMeinel/VitalKeepInv?label=Forks&style=for-the-badge
 
-[forks-url]: https://github.com/TamrielNetwork/VitalKeepInv/network/members
+[forks-url]: https://github.com/LeoMeinel/VitalKeepInv/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/TamrielNetwork/VitalKeepInv?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/LeoMeinel/VitalKeepInv?style=for-the-badge
 
-[stars-url]: https://github.com/TamrielNetwork/VitalKeepInv/stargazers
+[stars-url]: https://github.com/LeoMeinel/VitalKeepInv/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/TamrielNetwork/VitalKeepInv?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/LeoMeinel/VitalKeepInv?style=for-the-badge
 
-[issues-url]: https://github.com/TamrielNetwork/VitalKeepInv/issues
+[issues-url]: https://github.com/LeoMeinel/VitalKeepInv/issues
 
-[license-shield]: https://img.shields.io/github/license/TamrielNetwork/VitalKeepInv?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/LeoMeinel/VitalKeepInv?style=for-the-badge
 
-[license-url]: https://github.com/TamrielNetwork/VitalKeepInv/blob/main/LICENSE
+[license-url]: https://github.com/LeoMeinel/VitalKeepInv/blob/main/LICENSE
 
-[quality-shield]: https://img.shields.io/codefactor/grade/github/TamrielNetwork/VitalKeepInv?style=for-the-badge
+[quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/VitalKeepInv?style=for-the-badge
 
-[quality-url]: https://www.codefactor.io/repository/github/TamrielNetwork/VitalKeepInv
+[quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/VitalKeepInv
