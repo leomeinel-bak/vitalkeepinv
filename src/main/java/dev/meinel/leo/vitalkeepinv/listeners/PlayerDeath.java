@@ -16,16 +16,16 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;
 
 public class PlayerDeath
-		implements Listener {
+        implements Listener {
 
-	@EventHandler
-	public void onPlayerDeath(PlayerDeathEvent event) {
-		Player player = event.getPlayer();
-		if (!player.hasPermission("vitalkeepinv.keep")) {
-			return;
-		}
-		event.setKeepInventory(true);
-		event.getDrops()
-				.clear();
-	}
+    @EventHandler
+    public void onPlayerDeath(PlayerDeathEvent event) {
+        Player player = event.getPlayer();
+        if (!player.hasPermission("vitalkeepinv.keep")) {
+            return;
+        }
+        event.setKeepInventory(true);
+        event.getDrops()
+                .clear();
+    }
 }

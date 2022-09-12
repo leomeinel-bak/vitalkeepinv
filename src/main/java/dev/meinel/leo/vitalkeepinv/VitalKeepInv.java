@@ -15,33 +15,33 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class VitalKeepInv
-		extends JavaPlugin {
+        extends JavaPlugin {
 
-	@Override
-	public void onEnable() {
-		registerListeners();
-		Bukkit.getLogger()
-				.info("VitalKeepExp v" + this.getDescription()
-						.getVersion() + " enabled");
-		Bukkit.getLogger()
-				.info("Copyright (C) 2022 Leopold Meinel");
-		Bukkit.getLogger()
-				.info("This program comes with ABSOLUTELY NO WARRANTY!");
-		Bukkit.getLogger()
-				.info("This is free software, and you are welcome to redistribute it under certain conditions.");
-		Bukkit.getLogger()
-				.info("See https://github.com/LeoMeinel/VitalKeepExp/blob/main/LICENSE for more details.");
-	}
+    @Override
+    public void onEnable() {
+        registerListeners();
+        Bukkit.getLogger()
+                .info("VitalKeepExp v" + this.getDescription()
+                        .getVersion() + " enabled");
+        Bukkit.getLogger()
+                .info("Copyright (C) 2022 Leopold Meinel");
+        Bukkit.getLogger()
+                .info("This program comes with ABSOLUTELY NO WARRANTY!");
+        Bukkit.getLogger()
+                .info("This is free software, and you are welcome to redistribute it under certain conditions.");
+        Bukkit.getLogger()
+                .info("See https://github.com/LeoMeinel/VitalKeepExp/blob/main/LICENSE for more details.");
+    }
 
-	@Override
-	public void onDisable() {
-		Bukkit.getLogger()
-				.info("VitalKeepExp v" + this.getDescription()
-						.getVersion() + " disabled");
-	}
+    @Override
+    public void onDisable() {
+        Bukkit.getLogger()
+                .info("VitalKeepExp v" + this.getDescription()
+                        .getVersion() + " disabled");
+    }
 
-	private void registerListeners() {
-		getServer().getPluginManager()
-				.registerEvents(new PlayerDeath(), this);
-	}
+    private void registerListeners() {
+        getServer().getPluginManager()
+                .registerEvents(new PlayerDeath(), this);
+    }
 }
