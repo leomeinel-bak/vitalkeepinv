@@ -1,4 +1,5 @@
 <!-- PROJECT SHIELDS -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -67,12 +68,12 @@ This plugin is perfect for any server wanting their players not to lose levels w
 
 ### Features
 
-* Keep inventory on death.
+- Keep inventory on death.
 
 ### Built With
 
-* [Gradle 7](https://docs.gradle.org/7.4/release-notes.html)
-* [OpenJDK 17](https://openjdk.java.net/projects/jdk/17/)
+- [Gradle 7](https://docs.gradle.org/7.4/release-notes.html)
+- [OpenJDK 17](https://openjdk.java.net/projects/jdk/17/)
 
 <!-- GETTING STARTED -->
 
@@ -84,7 +85,7 @@ To get the plugin running on your server follow these simple steps.
 
 1. Permission: `vitalkeepinv.keep`
 
-* Description: Keep your inventory on death
+- Description: Keep your inventory on death
 
 <!-- ROADMAP -->
 
@@ -124,30 +125,19 @@ Project Link - [VitalKeepInv](https://github.com/LeoMeinel/VitalKeepInv) - GitHu
 
 ### Acknowledgements
 
-* [README.md - othneildrew](https://github.com/othneildrew/Best-README-Template)
+- [README.md - othneildrew](https://github.com/othneildrew/Best-README-Template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [contributors-shield]: https://img.shields.io/github/contributors-anon/LeoMeinel/VitalKeepInv?style=for-the-badge
-
 [contributors-url]: https://github.com/LeoMeinel/VitalKeepInv/graphs/contributors
-
 [forks-shield]: https://img.shields.io/github/forks/LeoMeinel/VitalKeepInv?label=Forks&style=for-the-badge
-
 [forks-url]: https://github.com/LeoMeinel/VitalKeepInv/network/members
-
 [stars-shield]: https://img.shields.io/github/stars/LeoMeinel/VitalKeepInv?style=for-the-badge
-
 [stars-url]: https://github.com/LeoMeinel/VitalKeepInv/stargazers
-
 [issues-shield]: https://img.shields.io/github/issues/LeoMeinel/VitalKeepInv?style=for-the-badge
-
 [issues-url]: https://github.com/LeoMeinel/VitalKeepInv/issues
-
 [license-shield]: https://img.shields.io/github/license/LeoMeinel/VitalKeepInv?style=for-the-badge
-
 [license-url]: https://github.com/LeoMeinel/VitalKeepInv/blob/main/LICENSE
-
 [quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/VitalKeepInv?style=for-the-badge
-
 [quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/VitalKeepInv
