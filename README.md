@@ -11,7 +11,7 @@
 <!--suppress ALL -->
 <br />
 <p align="center">
-  <a href="https://github.com/LeoMeinel/VitalKeepInv">
+  <a href="https://github.com/LeoMeinel/vitalkeepinv">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     Keep inventory on Spigot and Paper
     <br />
-    <a href="https://github.com/LeoMeinel/VitalKeepInv"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LeoMeinel/vitalkeepinv"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LeoMeinel/VitalKeepInv">View Demo</a>
+    <a href="https://github.com/LeoMeinel/vitalkeepinv">View Demo</a>
     ·
-    <a href="https://github.com/LeoMeinel/VitalKeepInv/issues">Report Bug</a>
+    <a href="https://github.com/LeoMeinel/vitalkeepinv/issues">Report Bug</a>
     ·
-    <a href="https://github.com/LeoMeinel/VitalKeepInv/issues">Request Feature</a>
+    <a href="https://github.com/LeoMeinel/vitalkeepinv/issues">Request Feature</a>
   </p>
 
 <!-- ABOUT THE PROJECT -->
@@ -65,7 +65,7 @@ To get the plugin running on your server follow these simple steps.
 
 ## Roadmap
 
-See the [open issues](https://github.com/LeoMeinel/VitalKeepInv/issues) for a list of proposed features (and known
+See the [open issues](https://github.com/LeoMeinel/vitalkeepinv/issues) for a list of proposed features (and known
 issues).
 
 <!-- CONTRIBUTING -->
@@ -93,7 +93,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE` for more in
 
 Leopold Meinel - [leo@meinel.dev](mailto:leo@meinel.dev) - eMail
 
-Project Link - [VitalKeepInv](https://github.com/LeoMeinel/VitalKeepInv) - GitHub
+Project Link - [VitalKeepInv](https://github.com/LeoMeinel/vitalkeepinv) - GitHub
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -103,15 +103,15 @@ Project Link - [VitalKeepInv](https://github.com/LeoMeinel/VitalKeepInv) - GitHu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors-anon/LeoMeinel/VitalKeepInv?style=for-the-badge
-[contributors-url]: https://github.com/LeoMeinel/VitalKeepInv/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/LeoMeinel/VitalKeepInv?label=Forks&style=for-the-badge
-[forks-url]: https://github.com/LeoMeinel/VitalKeepInv/network/members
-[stars-shield]: https://img.shields.io/github/stars/LeoMeinel/VitalKeepInv?style=for-the-badge
-[stars-url]: https://github.com/LeoMeinel/VitalKeepInv/stargazers
-[issues-shield]: https://img.shields.io/github/issues/LeoMeinel/VitalKeepInv?style=for-the-badge
-[issues-url]: https://github.com/LeoMeinel/VitalKeepInv/issues
-[license-shield]: https://img.shields.io/github/license/LeoMeinel/VitalKeepInv?style=for-the-badge
-[license-url]: https://github.com/LeoMeinel/VitalKeepInv/blob/main/LICENSE
-[quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/VitalKeepInv?style=for-the-badge
-[quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/VitalKeepInv
+[contributors-shield]: https://img.shields.io/github/contributors-anon/LeoMeinel/vitalkeepinv?style=for-the-badge
+[contributors-url]: https://github.com/LeoMeinel/vitalkeepinv/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LeoMeinel/vitalkeepinv?label=Forks&style=for-the-badge
+[forks-url]: https://github.com/LeoMeinel/vitalkeepinv/network/members
+[stars-shield]: https://img.shields.io/github/stars/LeoMeinel/vitalkeepinv?style=for-the-badge
+[stars-url]: https://github.com/LeoMeinel/vitalkeepinv/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LeoMeinel/vitalkeepinv?style=for-the-badge
+[issues-url]: https://github.com/LeoMeinel/vitalkeepinv/issues
+[license-shield]: https://img.shields.io/github/license/LeoMeinel/vitalkeepinv?style=for-the-badge
+[license-url]: https://github.com/LeoMeinel/vitalkeepinv/blob/main/LICENSE
+[quality-shield]: https://img.shields.io/codefactor/grade/github/LeoMeinel/vitalkeepinv?style=for-the-badge
+[quality-url]: https://www.codefactor.io/repository/github/LeoMeinel/vitalkeepinv
