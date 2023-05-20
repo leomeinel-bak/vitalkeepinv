@@ -2,7 +2,7 @@
  * File: PlayerDeath.java
  * Author: Leopold Meinel (leo@meinel.dev)
  * -----
- * Copyright (c) 2022 Leopold Meinel & contributors
+ * Copyright (c) 2023 Leopold Meinel & contributors
  * SPDX ID: GPL-3.0-or-later
  * URL: https://www.gnu.org/licenses/gpl-3.0-standalone.html
  * -----
@@ -15,8 +15,7 @@ import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.entity.PlayerDeathEvent;
 
-public class PlayerDeath
-        implements Listener {
+public class PlayerDeath implements Listener {
 
     @EventHandler
     public void onPlayerDeath(PlayerDeathEvent event) {
@@ -25,7 +24,6 @@ public class PlayerDeath
             return;
         }
         event.setKeepInventory(true);
-        event.getDrops()
-                .clear();
+        event.getDrops().clear();
     }
 }
